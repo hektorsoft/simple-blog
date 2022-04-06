@@ -2,7 +2,8 @@
 
 ### Sobre:
 
-	Fiz esse projeto em php durante meus estudos, ainda não está completo, falta implementar os comentarios e fazer alguns ajustes.
+	Fiz esse projeto em php durante meus estudos.
+	Ainda não está completo, falta implementar os comentarios e fazer alguns ajustes.
 	
 	Aceito Opiniões.
 
