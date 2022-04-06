@@ -1,0 +1,58 @@
+#telaLogin{
+    width: 350px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(195, 195, 195);
+}
+
+#fundo{
+    background-color: rgb(243, 243, 243);
+}
+
+#addPost{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45em
+
+}
+
+#titulo{
+    margin-top: 25 px;
+
+}
+#conteudo{
+    margin-top: 25 px;
+
+}
+
+#postar{
+    margin-top: 25px;
+    align-content: center;
+}
+
+#voltar:link{
+        text-decoration: none;
+ 
+}
+#voltar:visited{
+    text-decoration: none;
+
+}
+#voltar:hover{
+    text-decoration: none;
+    color: inherit ; 
+}
+#voltar:active{
+    text-decoration: none;
+
+}
+#voltar { color: inherit; } 
+
+#conteudo {
+    text-align: center;
+}
+#titulo {
+    text-align: center;
+}

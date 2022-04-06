@@ -1,0 +1,3 @@
+Projeto Publico - Simple Blog
+Criado por Gabriel Arcangelo de Lima
+github:	https://github.com/hektorsoft/
